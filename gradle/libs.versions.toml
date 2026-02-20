@@ -1,5 +1,5 @@
 [versions]
-wtmp-actionpanel-plugin = "changeme"
+wtmp-actionpanel-plugin = "main-snapshot"
 junit-version = "5.14.2"
 
 [libraries]
